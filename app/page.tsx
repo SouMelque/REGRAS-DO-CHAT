@@ -17,17 +17,3 @@ export function HeadTag() {
     </Head>
   )
 }
-import Component from "../tier-list"
-import Head from "next/head"
-
-export default function Page() {
-  return (
-    <>
-      <Head>
-        <title>Sexta do Terror</title>
-        <link rel="icon" type="image/png" href="https://i.imgur.com/zJsZBDe.png" />
-      </Head>
-      <Component />
-    </>
-  )
-}
