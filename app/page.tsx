@@ -6,5 +6,5 @@ export default function Page() {
 import Head from "next/head"
 
 export const metadata = {
-  title: "Sexta do Medo",
+  title: "Sexta do Terror",
 }
